@@ -1,2 +1,3 @@
-# Rcc-csc5
-Intro to c++ - RCC
+# Project
+1. Project I
+2. Project II
